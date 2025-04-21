@@ -70,8 +70,7 @@ POST /api/geocode/reverse
 - Интеграционные тесты контроллера (GeocodingControllerIT) с использованием TestRestTemplate
 
 ### Запуск тестов:
-
-./mvnw test
+mvn test
 
 ## Сборка и запуск 
 
